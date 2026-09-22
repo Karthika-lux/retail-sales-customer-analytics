@@ -1,0 +1,65 @@
+# 🛍️ Retail Sales & Customer Analytics
+
+### End-to-End Data Analytics & Business Intelligence Project
+
+> A complete retail analytics project using **Excel, SQL, Python, Machine Learning, and Power BI** to transform raw retail data into meaningful business insights.
+
+---
+
+ 📊 Project at a Glance
+
+| Area                     | Technologies                    |
+| ------------------------ | ------------------------------- |
+| 🧹 Data Cleaning         | Excel                           |
+| 🗄️ Database & Analysis  | MySQL / SQL                     |
+| 🐍 Data Analysis         | Python, Pandas, NumPy           |
+| 📈 Data Visualization    | Matplotlib, Seaborn, Power BI   |
+| 🤖 Customer Segmentation | RFM Analysis, K-Means           |
+| 📊 Business Intelligence | Power BI                        |
+| 🔄 ETL Pipeline          | Excel → SQL → Python → Power BI |
+
+---
+
+🎯 What This Project Covers
+
+* 📈 **Sales Performance Analysis**
+* 👥 **Customer Purchase & Behavior Analysis**
+* 🤖 **RFM-Based Customer Segmentation**
+* 🏷️ **Product & Category Performance**
+* 🏬 **Store & Staff Performance Analysis**
+* 📦 **Inventory & Low-Stock Analysis**
+* 📊 **Interactive Power BI Dashboard**
+
+---
+
+ 🔄 End-to-End Workflow
+
+**Excel**
+Data Cleaning & Preprocessing
+↓
+**MySQL**
+Database Management & SQL Analysis
+↓
+**Python**
+EDA & RFM Analysis
+↓
+**K-Means**
+Customer Segmentation
+↓
+**MySQL**
+Store Segmentation Results
+↓
+**Power BI**
+Interactive Dashboard & Business Insights
+
+---
+
+ 🛠️ Tech Stack
+
+`Excel` `SQL` `MySQL` `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `RFM Analysis` `K-Means` `ETL`
+
+📌 Project Focus
+
+Retail Sales | Customer Analytics | Inventory Analytics | Customer Segmentation | Business Intelligence
+
+Explore the repository to view the complete data cleaning, SQL analysis, Python notebooks, segmentation workflow, and Power BI dashboard.
